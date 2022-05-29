@@ -1,0 +1,8 @@
+type Product = 
+ service {
+   getCanisterID: () -> (principal) query;
+   getDesc: () -> (text) query;
+   getName: () -> (text) query;
+   getOwner: () -> (principal) query;
+ };
+service : (text, principal, text) -> Product
