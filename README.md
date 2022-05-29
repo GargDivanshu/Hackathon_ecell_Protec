@@ -6,3 +6,5 @@ a) WSL 2 installed on your system.
 b) DFX SDK by Dfinity should be installed.
 
 I strongly urge you to just have a look at the generic code, becoz Smart Contract file, idk for what reason could not be uploaded on github, it shows error message that This file is hidden , and i am not able to solve this issue. 
+
+PS:- Some of The smart contract file i.e Motoko seems to be there, but a whole a lot of other system generated files, while making this project are not tehre, so teh problem persisits. 
